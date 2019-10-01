@@ -9,3 +9,4 @@ The software Carpentry workshop was held from 30 Sept - 1 Oct.
 * Github and bash
 
 ## What I didn't learn
+- Analytics in R
