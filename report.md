@@ -10,3 +10,7 @@ The software Carpentry workshop was held from 30 Sept - 1 Oct.
 
 ## What I didn't learn
 - Analytics in R
+
+## Look for markdown syntax
+
+[all R studio cheatsheets](https://rstudio.com/resources/cheatsheets/)
