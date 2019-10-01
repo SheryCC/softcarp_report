@@ -19,4 +19,4 @@ The software Carpentry workshop was held from 30 Sept - 1 Oct.
 
 ## To learn more
 
-![The Carpentries](https://carpentries.org)
+[The Carpentries](https://carpentries.org)
